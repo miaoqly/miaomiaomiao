@@ -1,0 +1,33 @@
+division:
+  datas:
+    - [1,2,0.5]
+    - [10000000000,10000000000,1]
+    - [-1,-2,0.5]
+    - [-10000000000,-10000000000,1]
+    - [1.1,2.2,0.5]
+    - [-1.11,-2.22,0.5]
+    - [1.1111111111,2.2222222222,0.5]
+    - [0,1,0]
+    - [1,0,0]
+    - [-1,1,-1]
+    - [1,-1,-1]
+    - [0,0,0]
+    - [0.00,0.00,0.00]
+    - [7,7,1]
+    - [7,a,7]
+  myid:
+    - 'Not-divisible'
+    - 'big-int'
+    - 'negative'
+    - 'big-negative'
+    - 'float'
+    - 'float-negative'
+    - 'float-long'
+    - 'dividend-zero'
+    - 'false-divisor-zero'
+    - 'once-negative'
+    - 'second-negative'
+    - 'false-all-zero'
+    - 'false-all-float-zero'
+    - 'exact division'
+    - 'false-letter'
