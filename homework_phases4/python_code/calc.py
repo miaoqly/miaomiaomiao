@@ -1,0 +1,14 @@
+# 计算器
+class Calculator:
+    # 加法
+    def addition(self,a,b):
+        return a+b
+    # 减法
+    def subtraction(self,a,b):
+        return a-b
+    # 乘法
+    def multiplication(self,a,b):
+        return a*b
+    # 除法
+    def division(self,a,b):
+        return a/b

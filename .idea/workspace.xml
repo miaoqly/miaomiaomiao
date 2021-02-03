@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cabcc254-298a-496b-a2d5-667024e9bbb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/miaomiaomiao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/miaomiaomiao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_phases1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_phases1/test_animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_phases3/test_animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_phases1/test_cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_phases3/test_cat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework_phases4/testing" />
   </component>
   <component name="ProjectId" id="1nWA7vF2mARFyutJrHxrzHETEcU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -37,7 +37,23 @@
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest in test_calc_new.py">
+    <configuration name="pytest in test_calc_new.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="miaomiaomiao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework_phases4/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/homework_phases4/testing/test_calc_new.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in test_calc.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="miaomiaomiao" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_calc_new.py" />
         <item itemvalue="Python tests.pytest in test_calc.py" />
       </list>
     </recent_temporary>

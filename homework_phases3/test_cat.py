@@ -1,4 +1,4 @@
-from homework_phases1 import Animal
+from homework_phases3 import Animal
 
 
 class Cat(Animal):
